@@ -1,0 +1,6 @@
+﻿  Source1.cpp
+C:\Users\Kate\source\repos\Project2\Project2\Source1.cpp(32,35): warning C4305: аргумент: усечение из "double" в "GLclampf"
+C:\Users\Kate\source\repos\Project2\Project2\Source1.cpp(41,51): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\Kate\source\repos\Project2\Project2\Source1.cpp(41,37): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\Kate\source\repos\Project2\Project2\Source1.cpp(41,23): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+  Project2.vcxproj -> C:\Users\Kate\source\repos\Project2\Debug\Project2.exe
